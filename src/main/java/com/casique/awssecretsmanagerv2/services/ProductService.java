@@ -1,9 +1,9 @@
-package services;
+package com.casique.awssecretsmanagerv2.services;
 
-import entity.Product;
+import com.casique.awssecretsmanagerv2.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repositories.ProductRepository;
+import com.casique.awssecretsmanagerv2.repositories.ProductRepository;
 import javax.transaction.Transactional;
 import java.util.List;
 

@@ -1,4 +1,5 @@
-package entity;
+package com.casique.awssecretsmanagerv2.entity;
+
 
 import javax.persistence.*;
 

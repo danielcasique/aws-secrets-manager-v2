@@ -1,6 +1,6 @@
-package repositories;
+package com.casique.awssecretsmanagerv2.repositories;
 
-import entity.Product;
+import com.casique.awssecretsmanagerv2.entity.Product;
 import org.springframework.data.repository.CrudRepository;
 import java.util.List;
 

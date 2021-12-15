@@ -1,10 +1,10 @@
-package controllers;
+package com.casique.awssecretsmanagerv2.controllers;
 
-import entity.Product;
+import com.casique.awssecretsmanagerv2.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import services.ProductService;
+import com.casique.awssecretsmanagerv2.services.ProductService;
 
 import java.util.List;
 
