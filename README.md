@@ -16,7 +16,7 @@ CREATE TABLE `product` (
 create table hibernate_sequence(
   next_val INTEGER NOT null);
   
-insert into hibernate_sequence values(1);.
+insert into hibernate_sequence values(1);
 ```
 
 ## Common issues
